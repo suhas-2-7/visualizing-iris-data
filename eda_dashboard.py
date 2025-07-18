@@ -5,7 +5,7 @@ import plotly.express as px
 import matplotlib.pyplot as plt
 from streamlit_lottie import st_lottie
 import requests
-
+# Adding Comments
 # Load Lottie animation
 def load_lottie_url(url):
     r = requests.get(url)
